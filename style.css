@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+canvas{display:block}
+h1 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
+h1 {
+  color: rgb(255, 255, 255); /* Change to desired RGB value */
+}
+
+body{
+      background-color: #RFG; /* Replace RFG with the actual color code you want to use */
+      font-family: cursive;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+   
+    
